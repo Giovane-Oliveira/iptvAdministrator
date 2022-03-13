@@ -1,0 +1,2 @@
+# iptvAdministrator
+Projeto criado com intuito de facilitar o gerenciamento de clientes em sistemas iptv. Como todo sistema deste tipo, tem algumas limitações caso o cliente queira trocar a data de pagamento, e isso o usuário rendo que armazenar em planilhas ou anotações para que possa cobrar na data determinada e renovar na data determiada pelo sistema ou seja, a mesma que o cliente adquiriu o serviço pela primeira vez. Pensando nisso, foi criado o iptvAdministrator para facilitar a vidas dos revendedores de IPTV. 
